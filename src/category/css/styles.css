@@ -17,7 +17,6 @@ h4{
 p{
     font-family: 'Nunito', sans-serif;
     font-size: 14px;
-    
 }
 .centerText{
     text-align: center;
@@ -68,7 +67,6 @@ p{
 }
 .navbar-nav{
     width: 15vw;
-    
 }
 .btn{
     background-color: #727272;
@@ -108,15 +106,12 @@ p{
     margin-top: -4px;
     text-align: right;
 }
-
-
 .cardCopy{
     text-align: center;
 }
 .cardCopy2{
     margin-bottom: 16px;
 }
-
 footer{
     background-color:#ACC7C8;
     color: white;
