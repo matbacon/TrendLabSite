@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Roboto:wght@300;400&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #696969;
+}
+h1{ font-family: 'Nunito', sans-serif;
+    font-size: 96px;
+    font-weight: 600;}
+h3{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 72px;
+}
+h4{
+    font-weight: 300;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    
+}
+.centerText{
+    text-align: center;
+}
+.header {
+    display: flex;
+    background-color: #ACC7C8;
+    justify-content: space-between;
+    height: 90px;
+}
+.headDeal {
+    color: #727272;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.socials{
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.nav-link {
+    display: flex;
+    color: #727272;
+}
+.nav-item {
+    margin-left: 10px;
+    margin-right: 20px;
+    align-items: center;
+}
+.nav-icon{
+    height: 50px;
+    width: 50px;
+}
+.hr1{
+    display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+.navbar{
+    height: 150px;
+}
+.navbar-brand{
+   margin-left: 15vw;
+}
+.navbar-nav{
+    width: 15vw;
+}
+.btn{
+    background-color: #727272;
+    font-size: small;
+    height: 40px;
+}
+.prodTitle{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.stars{
+    height: 40px;
+    float:right;
+}
+.container{
+    max-width: 1420px;
+}
+.bigPic{
+    height: 60vw;
+}
+.sidepics{
+    margin-bottom: 30px;
+}
+.price{
+    max-width: 345px;
+}
+.rightSide{
+    margin-bottom: 40px;
+}
+.prodSug{
+    text-align: center;
+}
+.suggest{
+    background-color: #E6EEEF;
+}
+.sugPic{
+    max-width: 450px;
+    max-height: 450px;
+}
+.cardHead{
+    display:flex
+}
+.stars2{
+    height: 20px;
+    margin-left: 750px;
+}
+.randoComment{
+    display: flex;
+    max-width: 900px;
+}
+footer{
+    background-color:#ACC7C8;
+    color: white;
+}
+.footerSpace{
+    margin-left: 15vw;
+}
+.firstFooter{
+    margin-left: 20px;
+}
