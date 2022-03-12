@@ -112,9 +112,12 @@ p{
 .cardCopy2{
     margin-bottom: 16px;
 }
+a.noBlue{
+    color:#696969;
+}
 footer{
     background-color:#ACC7C8;
-    color: white;
+    color: 4E4E4E;
 }
 .footerSpace{
     margin-left: 15vw;
