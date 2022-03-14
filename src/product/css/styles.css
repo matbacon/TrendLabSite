@@ -45,7 +45,6 @@ p{
 .nav-item {
     margin-left: 40px;
     margin-right: 20px;
-   
 }
 .nav-icon{
     height: 50px;
@@ -87,7 +86,7 @@ p{
     max-width: 1420px;
 }
 .bigPic{
-    height: 60vw;
+    max-height: 750px;
 }
 .sidepics{
     margin-bottom: 30px;
@@ -100,11 +99,13 @@ p{
 }
 .prodSug{
     text-align: center;
+    margin-top: 20px;
 }
 .suggest{
     background-color: #E6EEEF;
 }
 .sugPic{
+    display: flex;
     max-width: 450px;
     max-height: 450px;
 }
